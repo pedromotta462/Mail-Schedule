@@ -73,7 +73,7 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 Nest is [MIT licensed](LICENSE).
 
 
-##Referências
+## References
 
 [Send Grid](https://docs.sendgrid.com/api-reference/mail-send/mail-send)
 
